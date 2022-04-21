@@ -1,5 +1,5 @@
 # Learning-C++
-This is my mini project repository while Learning C++
+This is my project repository while Learning C++
 ----------------------------------------------------------------------------------------------
 
  1. Atm.cpp
